@@ -44,5 +44,11 @@ namespace WebAppWithDatabase.BLL
             }
             
         }
+
+
+        public List<Student> GetAllStudents()
+        {
+            return studentGateway.GetAllStudents();
+        } 
     }
 }

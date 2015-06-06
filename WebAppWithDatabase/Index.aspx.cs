@@ -12,7 +12,8 @@ namespace WebAppWithDatabase
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            studentGridView.DataSource = studentManager.GetAllStudents();
+            studentGridView.DataBind();
         }
 
         private Student student=new Student();
@@ -29,5 +30,8 @@ namespace WebAppWithDatabase
             Label1.Text = message;
 
         }
+
+
+       
     }
 }

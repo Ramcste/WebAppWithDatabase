@@ -46,6 +46,8 @@
         <asp:Label runat="server" ID="Label1"></asp:Label>
 
     </div>
+        <asp:GridView ID="studentGridView" runat="server">
+        </asp:GridView>
     </form>
 </body>
 </html>

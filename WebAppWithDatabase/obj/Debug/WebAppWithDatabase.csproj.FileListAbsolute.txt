@@ -1,0 +1,6 @@
+E:\Lab Practice\WebAppWithDatabase\WebAppWithDatabase\bin\WebAppWithDatabase.dll.config
+E:\Lab Practice\WebAppWithDatabase\WebAppWithDatabase\bin\WebAppWithDatabase.dll
+E:\Lab Practice\WebAppWithDatabase\WebAppWithDatabase\bin\WebAppWithDatabase.pdb
+E:\Lab Practice\WebAppWithDatabase\WebAppWithDatabase\obj\Debug\WebAppWithDatabase.csprojResolveAssemblyReference.cache
+E:\Lab Practice\WebAppWithDatabase\WebAppWithDatabase\obj\Debug\WebAppWithDatabase.dll
+E:\Lab Practice\WebAppWithDatabase\WebAppWithDatabase\obj\Debug\WebAppWithDatabase.pdb
